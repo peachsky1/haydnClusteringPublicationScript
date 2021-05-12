@@ -67,15 +67,15 @@ def centroids_finder(arr, K):
     centroids = kmeans.cluster_centers_
     return centroids , labels , inertia, distances, iVal, varianceVal , retVal , retCount
 
-
-def strToArr(df):
-    # df = df['abs_y_list']
-    arr = []
-    df['abs_y_list'] = df['abs_y_list'].apply(literal_eval)
-    for index, row in df.iterrows():
-        arr.append(row['abs_y_list'])
-        # print(type(row['[C,C#,D,E-,E,F,F#,G,G#,A,B-,B]']))
-    return arr
+# Not gon use
+# def strToArr(df):
+#     # df = df['abs_y_list']
+#     arr = []
+#     df['abs_y_list'] = df['abs_y_list'].apply(literal_eval)
+#     for index, row in df.iterrows():
+#         arr.append(row['abs_y_list'])
+#         # print(type(row['[C,C#,D,E-,E,F,F#,G,G#,A,B-,B]']))
+#     return arr
 
 
 def main():
@@ -84,37 +84,29 @@ def main():
 # 	directory = os.path.join(cwd,dir_name)
 	entireDF = pd.read_csv("entireDF_DFF.csv")
 	entireDF.head()
-	print(entireDF['abs_y_list'][0])
-	entireDF.replace({'abs_y_list': {0: '[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]'}})
-
-# 	[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+# 	replace [nan,] to 
+	entireDF.at[0,'abs_y_list'] = "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
 	dffCol = entireDF['abs_y_list']
+
 	arr = []
 	for row in dffCol:
-		print(type(row))
 		i = ast.literal_eval(row)
-		print(type(i))
 		arr.append(i)
-		
 
-	
-	
-	
-	
-	
-	dffCol['abs_y_list'] = dffCol['abs_y_list'].apply(literal_eval)
-	
-	# Convert a string representation of list into list
-# 	i = ast.literal_eval(i)
-	entireVP = strToArr(dffCol)
+	entireVP = arr
 	type(entireVP)
-    
-
 	vectorPointE = np.asarray(entireVP)
 	#check optimized number of centroid
 	type(vectorPointE)
 	
-	entireDF = entireDF.drop(['CentroidLabelIndex_individualUnit'],axis=1)
+# 	This is abs dff result vec point. Start clustring from here
+	vectorPointE
+	
+	
+	
+	
+	
+	
 	centroidsVectorE, labelsArrayE, inertiaValueE, distancesE, iValE, varianceValE, retVal, retCount = centroids_finder(vectorPointE,20)
 	
 	for x in range(0,20):
