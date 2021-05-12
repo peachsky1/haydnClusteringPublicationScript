@@ -30,7 +30,7 @@ def toCsv(filename, df):
 	df.to_csv(out_dir, index = None)
 
 
-# Helper methods for centroids_finder
+# elbow method
 def distortionFinder(X):
     # X = X[:,[0,1]]
     distortions = []
@@ -43,6 +43,7 @@ def distortionFinder(X):
     plt.tight_layout()
     plt.savefig('./dff_elbow.png', dpi=300)
     plt.show()
+	
 # Helper methods for centroids_finder
 def inertiaFinder(X):
     # X = X[:,[0,1]]
@@ -53,8 +54,16 @@ def inertiaFinder(X):
     i=0
     retVal = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
     retCount = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
-    
-# input df
+	# i = total counts of vector points
+    # label = centroid index
+    for label in km.labels_:
+        print(label)
+        variance = variance + distances[i][label]*distances[i][label]
+        retVal[label] += distances[i][label]*distances[i][label] 
+        retCount[label] += 1
+        i = i + 1
+    return distances, i, variance , retVal , retCount
+
 def centroids_finder(arr, K):
     # print(arr)
     # distortionFinder(arr)
@@ -103,10 +112,6 @@ def main():
 	vectorPointE
 # 	find out the proper cluster# using elbow method
 	distortionFinder(vectorPointE)
-	
-	
-	
-	
 	
 	centroidsVectorE, labelsArrayE, inertiaValueE, distancesE, iValE, varianceValE, retVal, retCount = centroids_finder(vectorPointE,20)
 	
