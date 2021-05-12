@@ -1,0 +1,289 @@
+offset,Chord,NormalForm,PCsInNormalForm,GlobalScaleDegrees,HighestPitch,LowestPitch,file,Composer,LocalTonic,LocalMode,LocalSDForm_BassSD,Confidence
+0,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+0.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+1,<music21.chord.Chord D5 D4 E4 E3>,"[0, 2]","[2, 4]","[0, 2]",74,52,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+1.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+2,<music21.chord.Chord C#5 C#4 F#4 F#3>,"[0, 5]","[1, 6]","[11, 4]",73,54,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+3,<music21.chord.Chord B4 B3 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",71,55,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+3.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+4,<music21.chord.Chord B4 B3 G3 G2>,"[0, 4]","[7, 11]","[5, 9]",71,43,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+4.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+5,<music21.chord.Chord A4 A3 F#4 F#3>,"[0, 3]","[6, 9]","[4, 7]",69,54,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+6,<music21.chord.Chord B4 B3 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",71,55,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+6.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.831621744
+7,<music21.chord.Chord B4 B3 E4 E3>,"[0, 5]","[11, 4]","[9, 2]",71,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[9, 2]_2",0.831621744
+7.333333333,<music21.chord.Chord E4 E3>,[0],[4],[2],64,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+7.5,<music21.chord.Chord E5 E4 E3>,[0],[4],[2],76,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+7.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+8,<music21.chord.Chord C#5 C#4 A4 A3>,"[0, 4]","[9, 1]","[7, 11]",73,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 11]_7",0.831621744
+9,<music21.chord.Chord D5 D4 F#4 F#3>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_4",0.831621744
+9.5,<music21.chord.Chord E5 E4 F#4 F#3>,"[0, 2]","[4, 6]","[2, 4]",76,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 4]_4",0.831621744
+9.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+10,<music21.chord.Chord F#5 F#4 D4 D3>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_0",0.831621744
+10.5,<music21.chord.Chord G5 G4 D4 D3>,"[0, 5]","[2, 7]","[0, 5]",79,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 5]_0",0.831621744
+10.875,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[5]_5,0.831621744
+11,<music21.chord.Chord A5 A4>,[0],[9],[7],81,69,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.831621744
+11.5,<music21.chord.Chord B-5 B-4>,[0],[10],[8],82,70,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[8]_8,0.831621744
+12,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.831621744
+13,<music21.chord.Chord B5 B4 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",83,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 9]_5",0.831621744
+14,<music21.chord.Chord A5 A4 F#4 F#3>,"[0, 3]","[6, 9]","[4, 7]",81,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[4, 7]_4",0.898693165
+15,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[5]_5,0.898693165
+16,<music21.chord.Chord G5 G4 E4 E3>,"[0, 3]","[4, 7]","[2, 5]",79,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 5]_2",0.898693165
+17,<music21.chord.Chord F#5 F#4 D4 D3>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_0",0.898693165
+18,<music21.chord.Chord E5 E4 G4 G3>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 5]_5",0.898693165
+18.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.898693165
+19,<music21.chord.Chord E5 E4 E3>,[0],[4],[2],76,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.898693165
+19.33333333,<music21.chord.Chord E4 E3>,[0],[4],[2],64,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.898693165
+19.5,<music21.chord.Chord F#5 F#4 E4 E3>,"[0, 2]","[4, 6]","[2, 4]",78,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 4]_2",0.898693165
+19.875,<music21.chord.Chord F#5 F#4>,[0],[6],[4],78,66,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[4]_4,0.898693165
+20,<music21.chord.Chord C#5 C#4 A4 A3>,"[0, 4]","[9, 1]","[7, 11]",73,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 11]_7",0.898693165
+21,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.898693165
+21.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.898693165
+22,<music21.chord.Chord D5 D4 A3 A2>,"[0, 5]","[9, 2]","[7, 0]",74,45,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 0]_7",0.898693165
+22.75,<music21.chord.Chord A3 A2>,[0],[9],[7],57,45,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.830623406
+23,<music21.chord.Chord D3 D2>,[0],[2],[0],50,38,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.830623406
+24,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.813557754
+24.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.80991702
+25,<music21.chord.Chord D5 D4 E4 E3>,"[0, 2]","[2, 4]","[0, 2]",74,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 2]_2",0.80991702
+25.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.80991702
+26,<music21.chord.Chord C#5 C#4 F#4 F#3>,"[0, 5]","[1, 6]","[11, 4]",73,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[11, 4]_4",0.80991702
+27,<music21.chord.Chord B4 B3 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",71,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 9]_5",0.80991702
+27.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+28,<music21.chord.Chord B4 B3 G3 G2>,"[0, 4]","[7, 11]","[5, 9]",71,43,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+28.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+29,<music21.chord.Chord A4 A3 F#4 F#3>,"[0, 3]","[6, 9]","[4, 7]",69,54,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+30,<music21.chord.Chord B4 B3 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",71,55,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+30.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.831621744
+31,<music21.chord.Chord B4 B3 E4 E3>,"[0, 5]","[11, 4]","[9, 2]",71,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[9, 2]_2",0.831621744
+31.33333333,<music21.chord.Chord E4 E3>,[0],[4],[2],64,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+31.5,<music21.chord.Chord E5 E4 E3>,[0],[4],[2],76,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+31.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+32,<music21.chord.Chord C#5 C#4 A4 A3>,"[0, 4]","[9, 1]","[7, 11]",73,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 11]_7",0.831621744
+33,<music21.chord.Chord D5 D4 F#4 F#3>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_4",0.831621744
+33.5,<music21.chord.Chord E5 E4 F#4 F#3>,"[0, 2]","[4, 6]","[2, 4]",76,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 4]_4",0.831621744
+33.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+34,<music21.chord.Chord F#5 F#4 D4 D3>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_0",0.831621744
+34.5,<music21.chord.Chord G5 G4 D4 D3>,"[0, 5]","[2, 7]","[0, 5]",79,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 5]_0",0.831621744
+34.875,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[5]_5,0.831621744
+35,<music21.chord.Chord A5 A4>,[0],[9],[7],81,69,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.831621744
+35.5,<music21.chord.Chord B-5 B-4>,[0],[10],[8],82,70,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[8]_8,0.831621744
+36,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.831621744
+37,<music21.chord.Chord B5 B4 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",83,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 9]_5",0.831621744
+38,<music21.chord.Chord A5 A4 F#4 F#3>,"[0, 3]","[6, 9]","[4, 7]",81,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[4, 7]_4",0.898693165
+39,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[5]_5,0.898693165
+40,<music21.chord.Chord G5 G4 E4 E3>,"[0, 3]","[4, 7]","[2, 5]",79,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 5]_2",0.903120266
+41,<music21.chord.Chord F#5 F#4 D4 D3>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_0",0.903120266
+42,<music21.chord.Chord E5 E4 G4 G3>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[2, 5]_5",0.943593724
+42.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[2]_2,0.943593724
+43,<music21.chord.Chord E5 E4 E3>,[0],[4],[2],76,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[2]_2,0.943593724
+43.33333333,<music21.chord.Chord E4 E3>,[0],[4],[2],64,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[2]_2,0.943593724
+43.5,<music21.chord.Chord F#5 F#4 E4 E3>,"[0, 2]","[4, 6]","[2, 4]",78,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[2, 4]_2",0.943593724
+43.875,<music21.chord.Chord F#5 F#4>,[0],[6],[4],78,66,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[4]_4,0.943593724
+44,<music21.chord.Chord C#5 C#4 A4 A3>,"[0, 4]","[9, 1]","[7, 11]",73,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[7, 11]_7",0.943593724
+45,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.951128474
+45.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.951128474
+46,<music21.chord.Chord D5 D4 A3 A2>,"[0, 5]","[9, 2]","[7, 0]",74,45,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[7, 0]_7",0.951128474
+46.75,<music21.chord.Chord A3 A2>,[0],[9],[7],57,45,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.951128474
+47,<music21.chord.Chord D3 D2>,[0],[2],[0],50,38,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.951128474
+48,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.951128474
+49,<music21.chord.Chord A4 A3 F4 F3>,"[0, 4]","[5, 9]","[3, 7]",69,53,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[3, 7]_3",0.951128474
+49.75,<music21.chord.Chord F4 F3>,[0],[5],[3],65,53,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[3]_3,0.962889307
+50,<music21.chord.Chord B-4 B-3 G4 G3>,"[0, 3]","[7, 10]","[5, 8]",70,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[5, 8]_5",0.962889307
+51,<music21.chord.Chord A4 A3 F4 F3>,"[0, 4]","[5, 9]","[3, 7]",69,53,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[3, 7]_3",0.962889307
+51.875,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.962889307
+52,<music21.chord.Chord C#5 C#4 E4 E3>,"[0, 3]","[1, 4]","[11, 2]",73,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[11, 2]_2",0.962889307
+53,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.962889307
+53.25,<music21.chord.Chord D4 D3>,[0],[2],[0],62,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.962889307
+54,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.962889307
+55,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.962889307
+55.75,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.962889307
+56,<music21.chord.Chord C#5 C#4 G4 G3>,"[0, 6]","[1, 7]","[11, 5]",73,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[5, 11]_5",0.962889307
+57,<music21.chord.Chord D5 D4 F4 F3>,"[0, 3]","[2, 5]","[0, 3]",74,53,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[0, 3]_3",0.962889307
+57.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.962889307
+58,<music21.chord.Chord E5 E4 E3>,[0],[4],[2],76,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[2]_2,0.962889307
+59,<music21.chord.Chord F5 F4 D4 D3>,"[0, 3]","[2, 5]","[0, 3]",77,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[0, 3]_0",0.940367102
+59.25,<music21.chord.Chord D4 D3>,[0],[2],[0],62,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.940367102
+60,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[5]_5,0.940367102
+61,<music21.chord.Chord G5 G4 B-4 B-3>,"[0, 3]","[7, 10]","[5, 8]",79,58,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[5, 8]_8",0.940367102
+61.33333333,<music21.chord.Chord B-4 B-3>,[0],[10],[8],70,58,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[8]_8,0.940367102
+61.5,<music21.chord.Chord A5 A4 B-4 B-3>,"[0, 1]","[9, 10]","[7, 8]",81,58,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[7, 8]_8",0.940367102
+62,<music21.chord.Chord F5 F4 A4 A3>,"[0, 4]","[5, 9]","[3, 7]",77,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[3, 7]_7",0.940367102
+63,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[2]_2,0.940367102
+64,<music21.chord.Chord E5 E4 G4 G3>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[2, 5]_5",0.874099571
+64.33333333,<music21.chord.Chord G4 G3>,[0],[7],[5],67,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[5]_5,0.874099571
+64.5,<music21.chord.Chord F5 F4 G4 G3>,"[0, 2]","[5, 7]","[3, 5]",77,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[3, 5]_5",0.874099571
+65,<music21.chord.Chord D5 D4 F4 F3>,"[0, 3]","[2, 5]","[0, 3]",74,53,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[0, 3]_3",0.874099571
+66,<music21.chord.Chord C#5 C#4 E4 E3>,"[0, 3]","[1, 4]","[11, 2]",73,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[11, 2]_2",0.874099571
+67,<music21.chord.Chord C#5 C#4 E4 E3>,"[0, 3]","[1, 4]","[11, 2]",73,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[11, 2]_2",0.874099571
+68,<music21.chord.Chord E5 E4 D4 D3>,"[0, 2]","[2, 4]","[0, 2]",76,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 2]_0",0.934716343
+68.25,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+68.5,<music21.chord.Chord C#5 C#4 D4 D3>,"[0, 1]","[1, 2]","[11, 0]",73,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[11, 0]_0",0.938932332
+68.75,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+68.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+69,<music21.chord.Chord E5 E4 A3 A2>,"[0, 5]","[4, 9]","[2, 7]",76,45,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 7]_7",0.938932332
+70,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.938932332
+71,<music21.chord.Chord A3 A2>,[0],[9],[7],57,45,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.938932332
+72,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+72.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+73,<music21.chord.Chord D5 D4 E4 E3>,"[0, 2]","[2, 4]","[0, 2]",74,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 2]_2",0.938932332
+73.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+74,<music21.chord.Chord C#5 C#4 F#4 F#3>,"[0, 5]","[1, 6]","[11, 4]",73,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[11, 4]_4",0.938932332
+75,<music21.chord.Chord B4 B3 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",71,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 9]_5",0.938932332
+75.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.938932332
+76,<music21.chord.Chord B4 B3 G3 G2>,"[0, 4]","[7, 11]","[5, 9]",71,43,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 9]_5",0.938932332
+76.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.938932332
+77,<music21.chord.Chord A4 A3 F#4 F#3>,"[0, 3]","[6, 9]","[4, 7]",69,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[4, 7]_4",0.938932332
+78,<music21.chord.Chord B4 B3 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",71,55,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+78.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.831621744
+79,<music21.chord.Chord B4 B3 E4 E3>,"[0, 5]","[11, 4]","[9, 2]",71,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[9, 2]_2",0.831621744
+79.33333333,<music21.chord.Chord E4 E3>,[0],[4],[2],64,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+79.5,<music21.chord.Chord E5 E4 E3>,[0],[4],[2],76,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+79.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+80,<music21.chord.Chord C#5 C#4 A4 A3>,"[0, 4]","[9, 1]","[7, 11]",73,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 11]_7",0.831621744
+81,<music21.chord.Chord D5 D4 F#4 F#3>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_4",0.831621744
+81.5,<music21.chord.Chord E5 E4 F#4 F#3>,"[0, 2]","[4, 6]","[2, 4]",76,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 4]_4",0.831621744
+81.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+82,<music21.chord.Chord F#5 F#4 D4 D3>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_0",0.831621744
+82.5,<music21.chord.Chord G5 G4 D4 D3>,"[0, 5]","[2, 7]","[0, 5]",79,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 5]_0",0.831621744
+82.875,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[5]_5,0.831621744
+83,<music21.chord.Chord A5 A4>,[0],[9],[7],81,69,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.831621744
+83.5,<music21.chord.Chord B-5 B-4>,[0],[10],[8],82,70,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[8]_8,0.831621744
+84,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.831621744
+85,<music21.chord.Chord B5 B4 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",83,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 9]_5",0.831621744
+86,<music21.chord.Chord A5 A4 F#4 F#3>,"[0, 3]","[6, 9]","[4, 7]",81,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[4, 7]_4",0.868691467
+87,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[5]_5,0.868691467
+88,<music21.chord.Chord G5 G4 E4 E3>,"[0, 3]","[4, 7]","[2, 5]",79,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 5]_2",0.868691467
+89,<music21.chord.Chord F#5 F#4 D4 D3>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_0",0.868691467
+90,<music21.chord.Chord B5 B4 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",83,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 9]_5",0.868691467
+90.875,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.888401635
+91,<music21.chord.Chord B5 B4 E4 E3>,"[0, 5]","[11, 4]","[9, 2]",83,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[9, 2]_2",0.888401635
+91.875,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.917641944
+92,<music21.chord.Chord C#6 C#5 A4 A3>,"[0, 4]","[9, 1]","[7, 11]",85,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 11]_7",0.917641944
+93,<music21.chord.Chord D6 D5 F#4 F#3>,"[0, 4]","[2, 6]","[0, 4]",86,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_4",0.917641944
+93.875,<music21.chord.Chord D6 D5>,[0],[2],[0],86,74,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.917641944
+94,<music21.chord.Chord D6 D5 E4 E3>,"[0, 2]","[2, 4]","[0, 2]",86,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 2]_2",0.917641944
+94.75,<music21.chord.Chord E4 E3>,[0],[4],[2],64,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.917641944
+95,<music21.chord.Chord F#5 F#4 D4 D3>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_0",0.917641944
+96,<music21.chord.Chord E5 E4 G4 G3>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 5]_5",0.917641944
+96.5,<music21.chord.Chord F#5 F#4 G4 G3>,"[0, 1]","[6, 7]","[4, 5]",78,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[4, 5]_5",0.917641944
+96.875,<music21.chord.Chord F#5 F#4>,[0],[6],[4],78,66,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[4]_4,0.917641944
+97,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[5]_5,0.917641944
+97.5,<music21.chord.Chord A5 A4>,[0],[9],[7],81,69,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.939593639
+98,<music21.chord.Chord B-5 B-4 E4 E3>,"[0, 6]","[4, 10]","[2, 8]",82,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 8]_2",0.939593639
+98.5,<music21.chord.Chord B5 B4 E4 E3>,"[0, 5]","[11, 4]","[9, 2]",83,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[9, 2]_2",0.939593639
+98.875,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.939593639
+99,<music21.chord.Chord D5 D4 A4 A3>,"[0, 5]","[9, 2]","[7, 0]",74,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 0]_7",0.939593639
+99.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.94005741
+100,<music21.chord.Chord C#5 C#4 G4 G3>,"[0, 6]","[1, 7]","[11, 5]",73,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 11]_5",0.94005741
+101,<music21.chord.Chord D5 D4 F#4 F#3>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_4",0.94005741
+102,<music21.chord.Chord E5 E4 G4 G3>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 5]_5",0.94005741
+102.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.94005741
+103,<music21.chord.Chord E5 E4 E3>,[0],[4],[2],76,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.94005741
+103.3333333,<music21.chord.Chord E4 E3>,[0],[4],[2],64,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.94005741
+103.5,<music21.chord.Chord F#5 F#4 E4 E3>,"[0, 2]","[4, 6]","[2, 4]",78,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 4]_2",0.94005741
+103.875,<music21.chord.Chord F#5 F#4>,[0],[6],[4],78,66,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[4]_4,0.94005741
+104,<music21.chord.Chord C#5 C#4 A4 A3>,"[0, 4]","[9, 1]","[7, 11]",73,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 11]_7",0.94005741
+105,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.94569449
+106,<music21.chord.Chord A3 A2>,[0],[9],[7],57,45,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.94569449
+107,<music21.chord.Chord D3 D2>,[0],[2],[0],50,38,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.94569449
+108,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.94569449
+109,<music21.chord.Chord A4 A3 F4 F3>,"[0, 4]","[5, 9]","[3, 7]",69,53,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[3, 7]_3",0.94569449
+109.75,<music21.chord.Chord F4 F3>,[0],[5],[3],65,53,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[3]_3,0.962889307
+110,<music21.chord.Chord B-4 B-3 G4 G3>,"[0, 3]","[7, 10]","[5, 8]",70,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[5, 8]_5",0.962889307
+111,<music21.chord.Chord A4 A3 F4 F3>,"[0, 4]","[5, 9]","[3, 7]",69,53,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[3, 7]_3",0.962889307
+111.875,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.962889307
+112,<music21.chord.Chord C#5 C#4 E4 E3>,"[0, 3]","[1, 4]","[11, 2]",73,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[11, 2]_2",0.962889307
+113,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.962889307
+113.25,<music21.chord.Chord D4 D3>,[0],[2],[0],62,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.962889307
+114,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.962889307
+115,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.962889307
+115.75,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[7]_7,0.962889307
+116,<music21.chord.Chord C#5 C#4 G4 G3>,"[0, 6]","[1, 7]","[11, 5]",73,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[5, 11]_5",0.962889307
+117,<music21.chord.Chord D5 D4 F4 F3>,"[0, 3]","[2, 5]","[0, 3]",74,53,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[0, 3]_3",0.962889307
+117.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.962889307
+118,<music21.chord.Chord E5 E4 E3>,[0],[4],[2],76,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[2]_2,0.962889307
+119,<music21.chord.Chord F5 F4 D4 D3>,"[0, 3]","[2, 5]","[0, 3]",77,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[0, 3]_0",0.940367102
+119.25,<music21.chord.Chord D4 D3>,[0],[2],[0],62,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[0]_0,0.940367102
+120,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[5]_5,0.940367102
+121,<music21.chord.Chord G5 G4 B-4 B-3>,"[0, 3]","[7, 10]","[5, 8]",79,58,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[5, 8]_8",0.940367102
+121.3333333,<music21.chord.Chord B-4 B-3>,[0],[10],[8],70,58,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[8]_8,0.940367102
+121.5,<music21.chord.Chord A5 A4 B-4 B-3>,"[0, 1]","[9, 10]","[7, 8]",81,58,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[7, 8]_8",0.940367102
+122,<music21.chord.Chord F5 F4 A4 A3>,"[0, 4]","[5, 9]","[3, 7]",77,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[3, 7]_7",0.940367102
+123,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[2]_2,0.940367102
+124,<music21.chord.Chord E5 E4 G4 G3>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[2, 5]_5",0.874099571
+124.3333333,<music21.chord.Chord G4 G3>,[0],[7],[5],67,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,[5]_5,0.874099571
+124.5,<music21.chord.Chord F5 F4 G4 G3>,"[0, 2]","[5, 7]","[3, 5]",77,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[3, 5]_5",0.874099571
+125,<music21.chord.Chord D5 D4 F4 F3>,"[0, 3]","[2, 5]","[0, 3]",74,53,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[0, 3]_3",0.874099571
+126,<music21.chord.Chord C#5 C#4 E4 E3>,"[0, 3]","[1, 4]","[11, 2]",73,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[11, 2]_2",0.874099571
+127,<music21.chord.Chord C#5 C#4 E4 E3>,"[0, 3]","[1, 4]","[11, 2]",73,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,minor,"[11, 2]_2",0.874099571
+128,<music21.chord.Chord E5 E4 D4 D3>,"[0, 2]","[2, 4]","[0, 2]",76,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 2]_0",0.934716343
+128.25,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+128.5,<music21.chord.Chord C#5 C#4 D4 D3>,"[0, 1]","[1, 2]","[11, 0]",73,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[11, 0]_0",0.938932332
+128.75,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+128.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+129,<music21.chord.Chord E5 E4 A3 A2>,"[0, 5]","[4, 9]","[2, 7]",76,45,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 7]_7",0.938932332
+130,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.938932332
+131,<music21.chord.Chord A3 A2>,[0],[9],[7],57,45,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.938932332
+132,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+132.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+133,<music21.chord.Chord D5 D4 E4 E3>,"[0, 2]","[2, 4]","[0, 2]",74,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 2]_2",0.938932332
+133.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.938932332
+134,<music21.chord.Chord C#5 C#4 F#4 F#3>,"[0, 5]","[1, 6]","[11, 4]",73,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[11, 4]_4",0.938932332
+135,<music21.chord.Chord B4 B3 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",71,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 9]_5",0.938932332
+135.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.938932332
+136,<music21.chord.Chord B4 B3 G3 G2>,"[0, 4]","[7, 11]","[5, 9]",71,43,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 9]_5",0.938932332
+136.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.938932332
+137,<music21.chord.Chord A4 A3 F#4 F#3>,"[0, 3]","[6, 9]","[4, 7]",69,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[4, 7]_4",0.938932332
+138,<music21.chord.Chord B4 B3 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",71,55,String Quartet Op1 No3 iv D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+138.875,<music21.chord.Chord B4 B3>,[0],[11],[9],71,59,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.831621744
+139,<music21.chord.Chord B4 B3 E4 E3>,"[0, 5]","[11, 4]","[9, 2]",71,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[9, 2]_2",0.831621744
+139.3333333,<music21.chord.Chord E4 E3>,[0],[4],[2],64,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+139.5,<music21.chord.Chord E5 E4 E3>,[0],[4],[2],76,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+139.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+140,<music21.chord.Chord C#5 C#4 A4 A3>,"[0, 4]","[9, 1]","[7, 11]",73,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 11]_7",0.831621744
+141,<music21.chord.Chord D5 D4 F#4 F#3>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_4",0.831621744
+141.5,<music21.chord.Chord E5 E4 F#4 F#3>,"[0, 2]","[4, 6]","[2, 4]",76,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 4]_4",0.831621744
+141.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.831621744
+142,<music21.chord.Chord F#5 F#4 D4 D3>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_0",0.831621744
+142.5,<music21.chord.Chord G5 G4 D4 D3>,"[0, 5]","[2, 7]","[0, 5]",79,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 5]_0",0.831621744
+142.875,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[5]_5,0.831621744
+143,<music21.chord.Chord A5 A4>,[0],[9],[7],81,69,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.831621744
+143.5,<music21.chord.Chord B-5 B-4>,[0],[10],[8],82,70,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[8]_8,0.831621744
+144,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.831621744
+145,<music21.chord.Chord B5 B4 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",83,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 9]_5",0.831621744
+146,<music21.chord.Chord A5 A4 F#4 F#3>,"[0, 3]","[6, 9]","[4, 7]",81,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[4, 7]_4",0.868691467
+147,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[5]_5,0.868691467
+148,<music21.chord.Chord G5 G4 E4 E3>,"[0, 3]","[4, 7]","[2, 5]",79,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 5]_2",0.868691467
+149,<music21.chord.Chord F#5 F#4 D4 D3>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_0",0.868691467
+150,<music21.chord.Chord B5 B4 G4 G3>,"[0, 4]","[7, 11]","[5, 9]",83,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 9]_5",0.868691467
+150.875,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.888401635
+151,<music21.chord.Chord B5 B4 E4 E3>,"[0, 5]","[11, 4]","[9, 2]",83,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[9, 2]_2",0.888401635
+151.875,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.917641944
+152,<music21.chord.Chord C#6 C#5 A4 A3>,"[0, 4]","[9, 1]","[7, 11]",85,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 11]_7",0.917641944
+153,<music21.chord.Chord D6 D5 F#4 F#3>,"[0, 4]","[2, 6]","[0, 4]",86,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_4",0.917641944
+153.875,<music21.chord.Chord D6 D5>,[0],[2],[0],86,74,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.917641944
+154,<music21.chord.Chord D6 D5 E4 E3>,"[0, 2]","[2, 4]","[0, 2]",86,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 2]_2",0.917641944
+154.75,<music21.chord.Chord E4 E3>,[0],[4],[2],64,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.917641944
+155,<music21.chord.Chord F#5 F#4 D4 D3>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_0",0.917641944
+156,<music21.chord.Chord E5 E4 G4 G3>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 5]_5",0.917641944
+156.5,<music21.chord.Chord F#5 F#4 G4 G3>,"[0, 1]","[6, 7]","[4, 5]",78,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[4, 5]_5",0.917641944
+156.875,<music21.chord.Chord F#5 F#4>,[0],[6],[4],78,66,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[4]_4,0.917641944
+157,<music21.chord.Chord G5 G4>,[0],[7],[5],79,67,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[5]_5,0.917641944
+157.5,<music21.chord.Chord A5 A4>,[0],[9],[7],81,69,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.939593639
+158,<music21.chord.Chord B-5 B-4 E4 E3>,"[0, 6]","[4, 10]","[2, 8]",82,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 8]_2",0.939593639
+158.5,<music21.chord.Chord B5 B4 E4 E3>,"[0, 5]","[11, 4]","[9, 2]",83,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[9, 2]_2",0.939593639
+158.875,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[9]_9,0.939593639
+159,<music21.chord.Chord D5 D4 A4 A3>,"[0, 5]","[9, 2]","[7, 0]",74,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 0]_7",0.939593639
+159.875,<music21.chord.Chord D5 D4>,[0],[2],[0],74,62,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.939593639
+160,<music21.chord.Chord C#5 C#4 G4 G3>,"[0, 6]","[1, 7]","[11, 5]",73,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[5, 11]_5",0.939593639
+161,<music21.chord.Chord D5 D4 F#4 F#3>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[0, 4]_4",0.939593639
+162,<music21.chord.Chord E5 E4 G4 G3>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 5]_5",0.939593639
+162.875,<music21.chord.Chord E5 E4>,[0],[4],[2],76,64,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.939593639
+163,<music21.chord.Chord E5 E4 E3>,[0],[4],[2],76,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.939593639
+163.3333333,<music21.chord.Chord E4 E3>,[0],[4],[2],64,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[2]_2,0.939593639
+163.5,<music21.chord.Chord F#5 F#4 E4 E3>,"[0, 2]","[4, 6]","[2, 4]",78,52,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[2, 4]_2",0.939593639
+163.875,<music21.chord.Chord F#5 F#4>,[0],[6],[4],78,66,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[4]_4,0.939593639
+164,<music21.chord.Chord C#5 C#4 A4 A3>,"[0, 4]","[9, 1]","[7, 11]",73,57,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,"[7, 11]_7",0.939593639
+165,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.939593639
+166,<music21.chord.Chord A3 A2>,[0],[9],[7],57,45,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[7]_7,0.939593639
+167,<music21.chord.Chord D3 D2>,[0],[2],[0],50,38,String Quartet Op1 No3 iv D major.mid,Haydn,2,major,[0]_0,0.904487833

@@ -1,0 +1,162 @@
+offset,Chord,NormalForm,PCsInNormalForm,GlobalScaleDegrees,HighestPitch,LowestPitch,file,Composer,LocalTonic,LocalMode,LocalSDForm_BassSD,Confidence
+3,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[0]_0,0.927218273
+4,<music21.chord.Chord D5 D4 F#3 F#4>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_4",0.927218273
+5,<music21.chord.Chord C#5 C#4 E3 E4>,"[0, 3]","[1, 4]","[11, 2]",73,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2]_2",0.927218273
+5.5,<music21.chord.Chord E3 E4>,[0],[4],[2],64,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[2]_2,0.927218273
+6,<music21.chord.Chord E5 E4 A2 A3>,"[0, 5]","[4, 9]","[2, 7]",76,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 7]_7",0.927218273
+7,<music21.chord.Chord E5 E4 G3 G4>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 5]_5",0.927218273
+7.5,<music21.chord.Chord C#5 C#4 G3 G4>,"[0, 6]","[1, 7]","[11, 5]",73,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 11]_5",0.927218273
+8,<music21.chord.Chord D5 D4 F#3 F#4>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_4",0.927218273
+9,<music21.chord.Chord A4>,[0],[9],[7],69,69,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.927218273
+10,<music21.chord.Chord A4>,[0],[9],[7],69,69,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.948119669
+11,<music21.chord.Chord A4>,[0],[9],[7],69,69,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.948119669
+12,<music21.chord.Chord E5 E4 A2 A3>,"[0, 5]","[4, 9]","[2, 7]",76,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 7]_7",0.948119669
+13,<music21.chord.Chord E5 E4 G3 G4>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 5]_5",0.948119669
+13.5,<music21.chord.Chord C#5 C#4 G3 G4>,"[0, 6]","[1, 7]","[11, 5]",73,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 11]_5",0.948119669
+14,<music21.chord.Chord D5 D4 F#3 F#4>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_4",0.948119669
+15,<music21.chord.Chord A4 A3 D3 D4>,"[0, 5]","[9, 2]","[7, 0]",69,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[7, 0]_0",0.948119669
+16,<music21.chord.Chord F#5 F#4 D3 D4>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_0",0.948119669
+16.75,<music21.chord.Chord F#4 D3 D4>,"[0, 4]","[2, 6]","[0, 4]",66,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_0",0.948119669
+17,<music21.chord.Chord E5 E4 C#3 C#4>,"[0, 3]","[1, 4]","[11, 2]",76,49,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2]_11",0.948119669
+17.75,<music21.chord.Chord E4 C#3 C#4>,"[0, 3]","[1, 4]","[11, 2]",64,49,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2]_11",0.948119669
+18,<music21.chord.Chord D5 B3 B2>,"[0, 3]","[11, 2]","[9, 0]",74,47,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[9, 0]_9",0.948119669
+19,<music21.chord.Chord D6 D5 B2 B3>,"[0, 3]","[11, 2]","[9, 0]",86,47,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[2, 5]_2",0.914563057
+19.5,<music21.chord.Chord D6 D5 G#2 G#3>,"[0, 6]","[2, 8]","[0, 6]",86,44,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[5, 11]_11",0.914563057
+20,<music21.chord.Chord D6 D5 A2 A3>,"[0, 5]","[9, 2]","[7, 0]",86,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[0, 5]_0",0.914563057
+20.25,<music21.chord.Chord C#6 C#5 A2 A3>,"[0, 4]","[9, 1]","[7, 11]",85,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[0, 4]_0",0.914563057
+20.5,<music21.chord.Chord B5 B4 A2 A3>,"[0, 2]","[9, 11]","[7, 9]",83,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[0, 2]_0",0.914563057
+20.75,<music21.chord.Chord A5 A4 A2 A3>,[0],[9],[7],81,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,[0]_0,0.914563057
+21,<music21.chord.Chord G#5 G#4 D3 D4>,"[0, 6]","[2, 8]","[0, 6]",80,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[5, 11]_5",0.914563057
+21.25,<music21.chord.Chord F#5 F#4 D3 D4>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[5, 9]_5",0.914563057
+21.5,<music21.chord.Chord E5 E4 D3 D4>,"[0, 2]","[2, 4]","[0, 2]",76,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[5, 7]_5",0.914563057
+21.625,<music21.chord.Chord E4 D3 D4>,"[0, 2]","[2, 4]","[0, 2]",64,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[5, 7]_5",0.914563057
+21.75,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,[5]_5,0.914563057
+21.875,<music21.chord.Chord D3 D4>,[0],[2],[0],62,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,[5]_5,0.914563057
+22,<music21.chord.Chord C#5 C#4 E3 E4>,"[0, 3]","[1, 4]","[11, 2]",73,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[4, 7]_7",0.914563057
+23,<music21.chord.Chord B4 B3 E2 E3>,"[0, 5]","[11, 4]","[9, 2]",71,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[2, 7]_7",0.914563057
+23.125,<music21.chord.Chord C#5 C#4 E2 E3>,"[0, 3]","[1, 4]","[11, 2]",73,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2]_2",0.927218273
+23.25,<music21.chord.Chord B4 B3 E2 E3>,"[0, 5]","[11, 4]","[9, 2]",71,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[9, 2]_2",0.927218273
+23.375,<music21.chord.Chord C#5 C#4 E2 E3>,"[0, 3]","[1, 4]","[11, 2]",73,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2]_2",0.927218273
+23.5,<music21.chord.Chord A4 A3 E2 E3>,"[0, 5]","[4, 9]","[2, 7]",69,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 7]_2",0.927218273
+23.75,<music21.chord.Chord B4 B3 E2 E3>,"[0, 5]","[11, 4]","[9, 2]",71,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[9, 2]_2",0.927218273
+24,<music21.chord.Chord A4 A3 A2>,[0],[9],[7],69,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.927218273
+25,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.927218273
+26,<music21.chord.Chord A2 A3>,[0],[9],[7],57,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.927218273
+27,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[0]_0,0.927218273
+28,<music21.chord.Chord D5 D4 F#3 F#4>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_4",0.927218273
+29,<music21.chord.Chord C#5 C#4 E3 E4>,"[0, 3]","[1, 4]","[11, 2]",73,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2]_2",0.927218273
+29.5,<music21.chord.Chord E3 E4>,[0],[4],[2],64,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[2]_2,0.927218273
+30,<music21.chord.Chord E5 E4 A2 A3>,"[0, 5]","[4, 9]","[2, 7]",76,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 7]_7",0.927218273
+31,<music21.chord.Chord E5 E4 G3 G4>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 5]_5",0.927218273
+31.5,<music21.chord.Chord C#5 C#4 G3 G4>,"[0, 6]","[1, 7]","[11, 5]",73,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 11]_5",0.927218273
+32,<music21.chord.Chord D5 D4 F#3 F#4>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_4",0.927218273
+33,<music21.chord.Chord A4>,[0],[9],[7],69,69,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.927218273
+34,<music21.chord.Chord A4>,[0],[9],[7],69,69,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.948119669
+35,<music21.chord.Chord A4>,[0],[9],[7],69,69,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.948119669
+36,<music21.chord.Chord E5 E4 A2 A3>,"[0, 5]","[4, 9]","[2, 7]",76,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 7]_7",0.948119669
+37,<music21.chord.Chord E5 E4 G3 G4>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 5]_5",0.948119669
+37.5,<music21.chord.Chord C#5 C#4 G3 G4>,"[0, 6]","[1, 7]","[11, 5]",73,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 11]_5",0.948119669
+38,<music21.chord.Chord D5 D4 F#3 F#4>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_4",0.948119669
+39,<music21.chord.Chord A4 A3 D3 D4>,"[0, 5]","[9, 2]","[7, 0]",69,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[7, 0]_0",0.948119669
+40,<music21.chord.Chord F#5 F#4 D3 D4>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_0",0.948119669
+40.75,<music21.chord.Chord F#4 D3 D4>,"[0, 4]","[2, 6]","[0, 4]",66,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_0",0.948119669
+41,<music21.chord.Chord E5 E4 C#3 C#4>,"[0, 3]","[1, 4]","[11, 2]",76,49,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2]_11",0.948119669
+41.75,<music21.chord.Chord E4 C#3 C#4>,"[0, 3]","[1, 4]","[11, 2]",64,49,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2]_11",0.948119669
+42,<music21.chord.Chord D5 B3 B2>,"[0, 3]","[11, 2]","[9, 0]",74,47,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[9, 0]_9",0.948119669
+43,<music21.chord.Chord D6 D5 B2 B3>,"[0, 3]","[11, 2]","[9, 0]",86,47,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[2, 5]_2",0.914563057
+43.5,<music21.chord.Chord D6 D5 G#2 G#3>,"[0, 6]","[2, 8]","[0, 6]",86,44,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[5, 11]_11",0.914563057
+44,<music21.chord.Chord D6 D5 A2 A3>,"[0, 5]","[9, 2]","[7, 0]",86,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[0, 5]_0",0.914563057
+44.25,<music21.chord.Chord C#6 C#5 A2 A3>,"[0, 4]","[9, 1]","[7, 11]",85,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[0, 4]_0",0.914563057
+44.5,<music21.chord.Chord B5 B4 A2 A3>,"[0, 2]","[9, 11]","[7, 9]",83,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[0, 2]_0",0.914563057
+44.75,<music21.chord.Chord A5 A4 A2 A3>,[0],[9],[7],81,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,[0]_0,0.914563057
+45,<music21.chord.Chord G#5 G#4 D3 D4>,"[0, 6]","[2, 8]","[0, 6]",80,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[5, 11]_5",0.914563057
+45.25,<music21.chord.Chord F#5 F#4 D3 D4>,"[0, 4]","[2, 6]","[0, 4]",78,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[5, 9]_5",0.914563057
+45.5,<music21.chord.Chord E5 E4 D3 D4>,"[0, 2]","[2, 4]","[0, 2]",76,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[5, 7]_5",0.914563057
+45.625,<music21.chord.Chord E4 D3 D4>,"[0, 2]","[2, 4]","[0, 2]",64,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[5, 7]_5",0.914563057
+45.75,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,[5]_5,0.914563057
+45.875,<music21.chord.Chord D3 D4>,[0],[2],[0],62,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,[5]_5,0.914563057
+46,<music21.chord.Chord C#5 C#4 E3 E4>,"[0, 3]","[1, 4]","[11, 2]",73,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[4, 7]_7",0.914563057
+47,<music21.chord.Chord B4 B3 E2 E3>,"[0, 5]","[11, 4]","[9, 2]",71,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[2, 7]_7",0.914563057
+47.125,<music21.chord.Chord C#5 C#4 E2 E3>,"[0, 3]","[1, 4]","[11, 2]",73,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[4, 7]_7",0.914563057
+47.25,<music21.chord.Chord B4 B3 E2 E3>,"[0, 5]","[11, 4]","[9, 2]",71,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[2, 7]_7",0.914563057
+47.375,<music21.chord.Chord C#5 C#4 E2 E3>,"[0, 3]","[1, 4]","[11, 2]",73,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[4, 7]_7",0.914563057
+47.5,<music21.chord.Chord A4 A3 E2 E3>,"[0, 5]","[4, 9]","[2, 7]",69,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[7, 0]_7",0.914563057
+47.75,<music21.chord.Chord B4 B3 E2 E3>,"[0, 5]","[11, 4]","[9, 2]",71,40,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,"[2, 7]_7",0.914563057
+48,<music21.chord.Chord A4 A3 A2>,[0],[9],[7],69,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,[0]_0,0.914563057
+49,<music21.chord.Chord A4 A3>,[0],[9],[7],69,57,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,9,major,[0]_0,0.914563057
+50,<music21.chord.Chord A2 A3>,[0],[9],[7],57,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+51,<music21.chord.Chord A4>,[0],[9],[7],69,69,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+52,<music21.chord.Chord A3>,[0],[9],[7],57,57,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,Ambiguous,Ambiguous,Ambiguous,0
+53,<music21.chord.Chord A3 G3>,"[0, 2]","[7, 9]","[5, 7]",57,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 7]_5",0.846550306
+54,<music21.chord.Chord A4 A3 F#3>,"[0, 3]","[6, 9]","[4, 7]",69,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[4, 7]_4",0.897783647
+55,<music21.chord.Chord A4 A3 E3>,"[0, 5]","[4, 9]","[2, 7]",69,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 7]_2",0.897783647
+55.5,<music21.chord.Chord A4 B3 E3>,"[0, 2, 7]","[9, 11, 4]","[7, 9, 2]",69,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[7, 9, 2]_2",0.897783647
+55.75,<music21.chord.Chord A4 C#4 E3>,"[0, 4, 7]","[9, 1, 4]","[7, 11, 2]",69,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[7, 11, 2]_2",0.897783647
+56,<music21.chord.Chord A4 D4 D3>,"[0, 5]","[9, 2]","[7, 0]",69,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[7, 0]_0",0.897783647
+56.5,<music21.chord.Chord A4 E4 D3>,"[0, 2, 7]","[2, 4, 9]","[0, 2, 7]",69,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 2, 7]_0",0.897783647
+56.75,<music21.chord.Chord A4 F#4 D3>,"[0, 4, 7]","[2, 6, 9]","[0, 4, 7]",69,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4, 7]_0",0.897783647
+57,<music21.chord.Chord A4 G4 C#3 E4>,"[0, 3, 6, 8]","[1, 4, 7, 9]","[11, 2, 5, 7]",69,49,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2, 5, 7]_11",0.897783647
+58,<music21.chord.Chord A4 G4 C#3 E4>,"[0, 3, 6, 8]","[1, 4, 7, 9]","[11, 2, 5, 7]",69,49,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2, 5, 7]_11",0.897783647
+59,<music21.chord.Chord A4 G4 C#3 E4>,"[0, 3, 6, 8]","[1, 4, 7, 9]","[11, 2, 5, 7]",69,49,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2, 5, 7]_11",0.897783647
+60,<music21.chord.Chord A4 G4 D3 D4>,"[0, 2, 7]","[7, 9, 2]","[5, 7, 0]",69,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 7, 0]_0",0.92860907
+61,<music21.chord.Chord A4 F#4 D3 D4>,"[0, 4, 7]","[2, 6, 9]","[0, 4, 7]",69,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4, 7]_0",0.92860907
+61.5,<music21.chord.Chord A4 D3 D4>,"[0, 5]","[9, 2]","[7, 0]",69,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[7, 0]_0",0.92860907
+61.75,<music21.chord.Chord A4 F#4 D3 D4>,"[0, 4, 7]","[2, 6, 9]","[0, 4, 7]",69,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4, 7]_0",0.92860907
+62,<music21.chord.Chord A4 D3 D4>,"[0, 5]","[9, 2]","[7, 0]",69,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[7, 0]_0",0.92860907
+63,<music21.chord.Chord A4 D4 E3 G3>,"[0, 2, 5, 7]","[2, 4, 7, 9]","[0, 2, 5, 7]",69,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 2, 5, 7]_2",0.92860907
+63.5,<music21.chord.Chord A4 C#4 E3 G3>,"[0, 3, 6, 8]","[1, 4, 7, 9]","[11, 2, 5, 7]",69,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2, 5, 7]_2",0.92860907
+64,<music21.chord.Chord A4 C#4 E3 G3>,"[0, 3, 6, 8]","[1, 4, 7, 9]","[11, 2, 5, 7]",69,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2, 5, 7]_2",0.92860907
+65,<music21.chord.Chord A4 C#4 E3 G3>,"[0, 3, 6, 8]","[1, 4, 7, 9]","[11, 2, 5, 7]",69,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2, 5, 7]_2",0.932726915
+66,<music21.chord.Chord A4 C#4 F#3 A3>,"[0, 3, 7]","[6, 9, 1]","[4, 7, 11]",69,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[4, 7, 11]_4",0.932726915
+67,<music21.chord.Chord A4 E4 F#3 A3>,"[0, 2, 5]","[4, 6, 9]","[2, 4, 7]",69,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 4, 7]_4",0.939589926
+67.25,<music21.chord.Chord A4 D4 F#3 A3>,"[0, 4, 7]","[2, 6, 9]","[0, 4, 7]",69,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4, 7]_4",0.939589926
+67.5,<music21.chord.Chord A4 C#4 F#3 A3>,"[0, 3, 7]","[6, 9, 1]","[4, 7, 11]",69,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[4, 7, 11]_4",0.939589926
+67.75,<music21.chord.Chord A4 B3 F#3 A3>,"[0, 3, 5]","[6, 9, 11]","[4, 7, 9]",69,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[4, 7, 9]_4",0.939589926
+68,<music21.chord.Chord D5 F#3 A3>,"[0, 4, 7]","[2, 6, 9]","[0, 4, 7]",74,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4, 7]_4",0.939589926
+68.5,<music21.chord.Chord C#5 F#3 A3>,"[0, 3, 7]","[6, 9, 1]","[4, 7, 11]",73,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[4, 7, 11]_4",0.939589926
+69,<music21.chord.Chord B4 A3 G3 D4>,"[0, 2, 4, 7]","[7, 9, 11, 2]","[5, 7, 9, 0]",71,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 7, 9, 0]_5",0.939589926
+69.5,<music21.chord.Chord B4 G3 D4>,"[0, 4, 7]","[7, 11, 2]","[5, 9, 0]",71,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 9, 0]_5",0.939589926
+70,<music21.chord.Chord B4 G2 G3>,"[0, 4]","[7, 11]","[5, 9]",71,43,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 9]_5",0.939589926
+70.5,<music21.chord.Chord B4 G4 G2 B3>,"[0, 4]","[7, 11]","[5, 9]",71,43,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 9]_5",0.939589926
+71,<music21.chord.Chord B4 E4 G2 G3>,"[0, 3, 7]","[4, 7, 11]","[2, 5, 9]",71,43,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 5, 9]_5",0.939589926
+71.5,<music21.chord.Chord B4 D4 G2 F#3>,"[0, 1, 5, 8]","[6, 7, 11, 2]","[4, 5, 9, 0]",71,43,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[4, 5, 9, 0]_5",0.939589926
+72,<music21.chord.Chord A4 D4 A2 F#3>,"[0, 4, 7]","[2, 6, 9]","[0, 4, 7]",69,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4, 7]_7",0.939589926
+73,<music21.chord.Chord A4 C#4 A3 E3>,"[0, 4, 7]","[9, 1, 4]","[7, 11, 2]",69,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[7, 11, 2]_2",0.939589926
+73.5,<music21.chord.Chord A4 C#4 G3 E3>,"[0, 3, 6, 8]","[1, 4, 7, 9]","[11, 2, 5, 7]",69,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2, 5, 7]_2",0.939589926
+74,<music21.chord.Chord F#3>,[0],[6],[4],54,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[4]_4,0.939589926
+74.5,<music21.chord.Chord E3>,[0],[4],[2],52,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[2]_2,0.939589926
+75,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[0]_0,0.939589926
+76,<music21.chord.Chord D5 D4 F#3 F#4>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_4",0.927218273
+77,<music21.chord.Chord C#5 C#4 E3 E4>,"[0, 3]","[1, 4]","[11, 2]",73,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[11, 2]_2",0.927218273
+77.5,<music21.chord.Chord E3 E4>,[0],[4],[2],64,52,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[2]_2,0.927218273
+78,<music21.chord.Chord E5 E4 A2 A3>,"[0, 5]","[4, 9]","[2, 7]",76,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 7]_7",0.927218273
+79,<music21.chord.Chord E5 E4 G3 G4>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 5]_5",0.927218273
+79.5,<music21.chord.Chord C#5 C#4 G3 G4>,"[0, 6]","[1, 7]","[11, 5]",73,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 11]_5",0.930836009
+80,<music21.chord.Chord D5 D4 F#3 F#4>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_4",0.930836009
+81,<music21.chord.Chord A4>,[0],[9],[7],69,69,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.930836009
+82,<music21.chord.Chord A4>,[0],[9],[7],69,69,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.930836009
+83,<music21.chord.Chord A4>,[0],[9],[7],69,69,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[7]_7,0.930836009
+84,<music21.chord.Chord E5 E4 A2 A3>,"[0, 5]","[4, 9]","[2, 7]",76,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 7]_7",0.930836009
+85,<music21.chord.Chord E5 E4 G3 G4>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[2, 5]_5",0.930836009
+85.5,<music21.chord.Chord C#5 C#4 G3 G4>,"[0, 6]","[1, 7]","[11, 5]",73,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[5, 11]_5",0.930836009
+86,<music21.chord.Chord D5 D4 F#3 F#4>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,"[0, 4]_4",0.930836009
+87,<music21.chord.Chord G4 G3>,[0],[7],[5],67,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[5]_5,0.930836009
+88,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[9]_9,0.930836009
+89,<music21.chord.Chord B5 B4>,[0],[11],[9],83,71,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,major,[9]_9,0.808425762
+90,<music21.chord.Chord B5 B4 G2 G3>,"[0, 4]","[7, 11]","[5, 9]",83,43,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[0, 4]_0",0.806324138
+91,<music21.chord.Chord B5 B4 G3 G4>,"[0, 4]","[7, 11]","[5, 9]",83,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[0, 4]_0",0.806324138
+91.5,<music21.chord.Chord A5 A4 G3 G4>,"[0, 2]","[7, 9]","[5, 7]",81,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[0, 2]_0",0.806324138
+91.75,<music21.chord.Chord G5 G4 G3>,[0],[7],[5],79,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,[0]_0,0.806324138
+92,<music21.chord.Chord F#5 F#4 G3 G4>,"[0, 1]","[6, 7]","[4, 5]",78,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[11, 0]_0",0.806324138
+92.25,<music21.chord.Chord E5 E4 G3 G4>,"[0, 3]","[4, 7]","[2, 5]",76,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[9, 0]_0",0.806324138
+92.5,<music21.chord.Chord D5 D4 G3 G4>,"[0, 5]","[2, 7]","[0, 5]",74,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[7, 0]_0",0.806324138
+92.625,<music21.chord.Chord D4 G3 G4>,"[0, 5]","[2, 7]","[0, 5]",67,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[7, 0]_0",0.806324138
+92.75,<music21.chord.Chord C#5 C#4 G3 G4>,"[0, 6]","[1, 7]","[11, 5]",73,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[0, 6]_0",0.806324138
+92.875,<music21.chord.Chord C#4 G3 G4>,"[0, 6]","[1, 7]","[11, 5]",67,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[0, 6]_0",0.806324138
+93,<music21.chord.Chord D5 D4 F#3 F#4>,"[0, 4]","[2, 6]","[0, 4]",74,54,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[7, 11]_11",0.806324138
+93.5,<music21.chord.Chord D5 D4 G3 G4>,"[0, 5]","[2, 7]","[0, 5]",74,55,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[7, 0]_0",0.806324138
+94,<music21.chord.Chord D5 F#4 A3 A4>,"[0, 4, 7]","[2, 6, 9]","[0, 4, 7]",74,57,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,7,major,"[7, 11, 2]_2",0.806324138
+95,<music21.chord.Chord C#5 E4 A2 A3>,"[0, 4, 7]","[9, 1, 4]","[7, 11, 2]",73,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,minor,"[7, 11, 2]_7",0.825072853
+96,<music21.chord.Chord D5 D4 D3>,[0],[2],[0],74,50,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,minor,[0]_0,0.825072853
+97,<music21.chord.Chord D5 D4 A2 A3>,"[0, 5]","[9, 2]","[7, 0]",74,45,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,minor,"[7, 0]_7",0.825072853
+98,<music21.chord.Chord D5 D2 D3>,[0],[2],[0],74,38,String Quartet Op2 No2 Hob3-8 (Arrangement) ii D major.mid,Haydn,2,minor,[0]_0,0.825072853
