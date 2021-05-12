@@ -34,14 +34,14 @@ def toCsv(filename, df):
 def distortionFinder(X):
     # X = X[:,[0,1]]
     distortions = []
-    for i in range(1,40):
+    for i in range(1,30):
         km = KMeans(n_clusters=i, random_state=1).fit(X)
         distortions.append(km.inertia_)
-    plt.plot(range(1, 40), distortions, marker='o')
+    plt.plot(range(1, 30), distortions, marker='o')
     plt.xlabel('Number of clusters')
     plt.ylabel('Distortion')
     plt.tight_layout()
-    # plt.savefig('./figures/elbow.png', dpi=300)
+    plt.savefig('./dff_elbow.png', dpi=300)
     plt.show()
 # Helper methods for centroids_finder
 def inertiaFinder(X):
@@ -57,7 +57,7 @@ def inertiaFinder(X):
 # input df
 def centroids_finder(arr, K):
     # print(arr)
-    distortionFinder(arr)
+    # distortionFinder(arr)
     distances, iVal, varianceVal, retVal , retCount = inertiaFinder(arr)
     # print(K)
     kmeans = KMeans(init='k-means++', n_clusters=K, random_state=1).fit(arr)
@@ -101,7 +101,8 @@ def main():
 	
 # 	This is abs dff result vec point. Start clustring from here
 	vectorPointE
-	
+# 	find out the proper cluster# using elbow method
+	distortionFinder(vectorPointE)
 	
 	
 	
