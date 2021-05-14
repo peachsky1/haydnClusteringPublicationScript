@@ -137,7 +137,13 @@ def main():
 # 	NPtoCsv(varianceValE,"varianceValE"+randPrefix)
 	NPtoCsv(retVal,"retVal"+randPrefix)
 	NPtoCsv(retCount,"retCount"+randPrefix)
-	NPtoCsv(entireDF, "entireDF"+randPrefix)
+	
+	# selected column index: 1, 6, 7
+# 	new = old.iloc[: , [1, 6, 7]].copy() 
+	selected_columns = entireDF.iloc[:,[0,1,2,3,5,7]].copy()
+	seriesE = pd.Series(labelsArrayE)
+	selected_columns.insert(2, "CentroidLabelIndex_entireUnits", seriesE)
+	NPtoCsv(selected_columns, "ClusteringData"+randPrefix)
     
 
 

@@ -136,8 +136,8 @@ and what we need for the next step is
 [1]centroidsVectorE_rand_state_1.csv\
 ::: 12X20 matrix which means 12 vector points of the centroid of each cluster(20 counts).
 
-[2]entireDF_rand_state_1.csv\
-::: The entre data frame used for the K-means clustering procedure(same as the input df but for convenience).
+[2]ClusteringData_rand_state_1.csv\
+::: Added cluster index on column index 2. Column index: [offsetRange [C,C#,D,E-,E,F,F#,G,G#,A,B-,B] CentroidLabelIndex_entireUnits triadLabel triadCoef filename abs_y_list]
 
 [3]kmeans_fit_transform_distance_rand_state_1.csv\
 ::: Computed clustering and transform X to cluster-distance space.
