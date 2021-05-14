@@ -35,7 +35,7 @@ def distortionFinder(X):
     # X = X[:,[0,1]]
     distortions = []
     for i in range(1,30):
-        km = KMeans(n_clusters=i, random_state=1).fit(X)
+        km = KMeans(n_clusters=i, init=1).fit(X)
         distortions.append(km.inertia_)
     plt.plot(range(1, 30), distortions, marker='o')
     plt.xlabel('Number of clusters')
@@ -44,37 +44,37 @@ def distortionFinder(X):
     plt.savefig('./dff_elbow.png', dpi=300)
     plt.show()
 	
-# Helper methods for centroids_finder
-def inertiaFinder(X):
-    # X = X[:,[0,1]]
-    km = KMeans(n_clusters=20, random_state=1)
-    distances= km.fit_transform(X)
-    print(distances)
-    variance = 0
-    i=0
-    retVal = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
-    retCount = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
-	# i = total counts of vector points
+	
+# get all the useful output with fixed seed.
+# input : #ofCluster=20
+# output : centroids , labels , inertia, distances, iVal, varianceVal , retVal , retCount
+def kmeanFinal(arr, K):
+	kmeans = KMeans(init='k-means++', n_clusters=K).fit(arr)
+	kmeans_transform = kmeans.transform(arr)
+# 	km = KMeans(n_clusters=20, random_state=1)
+# 	distances = kmeans.fit_transform(arr)
+# 	print(distances)
+	
+	
+	# iVal = total counts of vector points
     # label = centroid index
-    for label in km.labels_:
-        print(label)
-        variance = variance + distances[i][label]*distances[i][label]
-        retVal[label] += distances[i][label]*distances[i][label] 
-        retCount[label] += 1
-        i = i + 1
-    return distances, i, variance , retVal , retCount
+	centroids = kmeans.cluster_centers_
+	labels = kmeans.labels_
+	inertia = kmeans.inertia_
+	
+	iVal=0
+	varianceVal = 0
+	retVal = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+	retCount = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+	for label in kmeans.labels_:
+		print(label)
+		varianceVal = varianceVal + kmeans_transform[iVal][label]*kmeans_transform[iVal][label]
+		retVal[label] += kmeans_transform[iVal][label]*kmeans_transform[iVal][label] 
+		retCount[label] += 1
+		iVal = iVal + 1
+		
+	return centroids , labels , inertia, kmeans_transform, iVal, varianceVal , retVal , retCount
 
-def centroids_finder(arr, K):
-    # print(arr)
-    # distortionFinder(arr)
-    distances, iVal, varianceVal, retVal , retCount = inertiaFinder(arr)
-    # print(K)
-    kmeans = KMeans(init='k-means++', n_clusters=K, random_state=1).fit(arr)
-    labels = kmeans.labels_
-    inertia = kmeans.inertia_
-    # print(inertia)
-    centroids = kmeans.cluster_centers_
-    return centroids , labels , inertia, distances, iVal, varianceVal , retVal , retCount
 
 # Not gon use
 # def strToArr(df):
@@ -112,8 +112,8 @@ def main():
 	vectorPointE
 # 	find out the proper cluster# using elbow method
 	distortionFinder(vectorPointE)
-	
-	centroidsVectorE, labelsArrayE, inertiaValueE, distancesE, iValE, varianceValE, retVal, retCount = centroids_finder(vectorPointE,20)
+# 	centroids , labels , inertia, kmeans_fit_transform_distance, iVal, varianceVal , retVal , retCount
+	centroidsVectorE, labelsArrayE, inertiaValueE, distancesE, iValE, varianceValE, retVal, retCount = kmeanFinal(vectorPointE,20)
 	
 	for x in range(0,20):
 		retVal[x] = retVal[x] / retCount[x]
