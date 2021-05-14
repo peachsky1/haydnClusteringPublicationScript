@@ -23,19 +23,23 @@ from scipy.fft import fft, ifft
 from sklearn.cluster import KMeans
 from ast import literal_eval
 
-def toCsv(filename, df):
+def DFtoCsv(filename, df):
 	cwd = os.getcwd()
 	out_dir = os.path.join(cwd,filename+".csv")
 	print(out_dir)
 	df.to_csv(out_dir, index = None)
 
-
+def NPtoCsv(nparray,fn):
+    cwd = os.getcwd()
+    fn = os.path.join(cwd,fn)
+    pd.DataFrame(nparray).to_csv(fn+".csv")
+	
 # elbow method
 def distortionFinder(X):
     # X = X[:,[0,1]]
     distortions = []
     for i in range(1,30):
-        km = KMeans(n_clusters=i, init=1).fit(X)
+        km = KMeans(init='k-means++', n_clusters=i, n_init=10).fit(X)
         distortions.append(km.inertia_)
     plt.plot(range(1, 30), distortions, marker='o')
     plt.xlabel('Number of clusters')
@@ -49,7 +53,7 @@ def distortionFinder(X):
 # input : #ofCluster=20
 # output : centroids , labels , inertia, distances, iVal, varianceVal , retVal , retCount
 def kmeanFinal(arr, K):
-	kmeans = KMeans(init='k-means++', n_clusters=K).fit(arr)
+	kmeans = KMeans(init='k-means++', n_clusters=K, n_init=10).fit(arr)
 	kmeans_transform = kmeans.transform(arr)
 # 	km = KMeans(n_clusters=20, random_state=1)
 # 	distances = kmeans.fit_transform(arr)
@@ -113,20 +117,22 @@ def main():
 # 	find out the proper cluster# using elbow method
 	distortionFinder(vectorPointE)
 # 	centroids , labels , inertia, kmeans_fit_transform_distance, iVal, varianceVal , retVal , retCount
-	centroidsVectorE, labelsArrayE, inertiaValueE, distancesE, iValE, varianceValE, retVal, retCount = kmeanFinal(vectorPointE,20)
+	centroidsVectorE, labelsArrayE, inertiaValueE, kmeans_fit_transform_distance, iValE, varianceValE, retVal, retCount = kmeanFinal(vectorPointE,20)
 	
 	for x in range(0,20):
 		retVal[x] = retVal[x] / retCount[x]
 		print(x)
-	toCsv(centroidsVectorE,"centroidsVectorE")
-	toCsv(labelsArrayE,"labelsArrayE")
-	#makeCSV(inertiaValueE,"inertiaValueE")
-	toCsv(distancesE,"distancesE")
-    #makeCSV(iValE,"iValE")
-    #makeCSV(varianceValE,"varianceValE")
-	toCsv(retVal,"retVal")
-	toCsv(retCount,"retCount")
-	toCsv(entireDF, "entireDF")
+		
+		
+	NPtoCsv(centroidsVectorE,"centroidsVectorE")
+# 	NPtoCsv(labelsArrayE,"labelsArrayE")
+# 	NPtoCsv(inertiaValueE,"inertiaValueE")
+	NPtoCsv(kmeans_fit_transform_distance,"kmeans_fit_transform_distance")
+# 	NPtoCsv(iValE,"iValE")
+# 	NPtoCsv(varianceValE,"varianceValE")
+	NPtoCsv(retVal,"retVal")
+	NPtoCsv(retCount,"retCount")
+	NPtoCsv(entireDF, "entireDF")
     
 
 
