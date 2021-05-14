@@ -39,7 +39,7 @@ def distortionFinder(X):
     # X = X[:,[0,1]]
     distortions = []
     for i in range(1,30):
-        km = KMeans(init='k-means++', n_clusters=i, n_init=10).fit(X)
+        km = KMeans(n_clusters=i, random_state=1).fit(X)
         distortions.append(km.inertia_)
     plt.plot(range(1, 30), distortions, marker='o')
     plt.xlabel('Number of clusters')
@@ -52,8 +52,8 @@ def distortionFinder(X):
 # get all the useful output with fixed seed.
 # input : #ofCluster=20
 # output : centroids , labels , inertia, distances, iVal, varianceVal , retVal , retCount
-def kmeanFinal(arr, K):
-	kmeans = KMeans(init='k-means++', n_clusters=K, n_init=10).fit(arr)
+def kmeanFinal(arr, K, rand_state):
+	kmeans = KMeans(n_clusters=K, random_state=rand_state).fit(arr)
 	kmeans_transform = kmeans.transform(arr)
 # 	km = KMeans(n_clusters=20, random_state=1)
 # 	distances = kmeans.fit_transform(arr)
@@ -93,7 +93,7 @@ def kmeanFinal(arr, K):
 
 def main():
 # 	dir_name = "haydnAnalysis"
-	cwd = os.getcwd()
+# 	cwd = os.getcwd()
 # 	directory = os.path.join(cwd,dir_name)
 	entireDF = pd.read_csv("entireDF_DFF.csv")
 	entireDF.head()
@@ -101,6 +101,10 @@ def main():
 	entireDF.at[0,'abs_y_list'] = "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]"
 	dffCol = entireDF['abs_y_list']
 
+
+
+# 	random state param to fix the output
+	rand_state = 50
 	arr = []
 	for row in dffCol:
 		i = ast.literal_eval(row)
@@ -117,22 +121,23 @@ def main():
 # 	find out the proper cluster# using elbow method
 	distortionFinder(vectorPointE)
 # 	centroids , labels , inertia, kmeans_fit_transform_distance, iVal, varianceVal , retVal , retCount
-	centroidsVectorE, labelsArrayE, inertiaValueE, kmeans_fit_transform_distance, iValE, varianceValE, retVal, retCount = kmeanFinal(vectorPointE,20)
+	centroidsVectorE, labelsArrayE, inertiaValueE, kmeans_fit_transform_distance, iValE, varianceValE, retVal, retCount = kmeanFinal(vectorPointE,20,rand_state )
 	
 	for x in range(0,20):
 		retVal[x] = retVal[x] / retCount[x]
 		print(x)
 		
-		
-	NPtoCsv(centroidsVectorE,"centroidsVectorE")
-# 	NPtoCsv(labelsArrayE,"labelsArrayE")
-# 	NPtoCsv(inertiaValueE,"inertiaValueE")
-	NPtoCsv(kmeans_fit_transform_distance,"kmeans_fit_transform_distance")
-# 	NPtoCsv(iValE,"iValE")
-# 	NPtoCsv(varianceValE,"varianceValE")
-	NPtoCsv(retVal,"retVal")
-	NPtoCsv(retCount,"retCount")
-	NPtoCsv(entireDF, "entireDF")
+	
+	randPrefix = "_rand_state_" + str(rand_state)
+	NPtoCsv(centroidsVectorE,"centroidsVectorE"+randPrefix)
+# 	NPtoCsv(labelsArrayE,"labelsArrayE"+randPrefix)
+# 	NPtoCsv(inertiaValueE,"inertiaValueE"+randPrefix)
+	NPtoCsv(kmeans_fit_transform_distance,"kmeans_fit_transform_distance"+randPrefix)
+# 	NPtoCsv(iValE,"iValE"+randPrefix)
+# 	NPtoCsv(varianceValE,"varianceValE"+randPrefix)
+	NPtoCsv(retVal,"retVal"+randPrefix)
+	NPtoCsv(retCount,"retCount"+randPrefix)
+	NPtoCsv(entireDF, "entireDF"+randPrefix)
     
 
 

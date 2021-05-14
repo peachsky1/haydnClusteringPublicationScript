@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Apr 28 11:32:17 2021
-combining all the splitted files into one csv fil 
+dft
 @author: jasonlee
 """
 
